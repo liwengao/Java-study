@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="2">
-      <change afterPath="$PROJECT_DIR$/JAVAlangueage/text1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java语法.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,62 +57,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="4.539547679626275E-48" />
-      <entry key="MS500" value="3.3996056358317275E-10" />
-      <entry key="S2" value="0.00483590333962936" />
-      <entry key="S5" value="0.18650217448781833" />
-      <entry key="S10" value="0.7183308041759591" />
-      <entry key="S30" value="1.854413301597554" />
-      <entry key="S60" value="2.577851918279861" />
-      <entry key="M2" value="4.709720504500411" />
-      <entry key="M5" value="13.296760022112698" />
-      <entry key="M10" value="22.186243070707697" />
-      <entry key="M15" value="26.782607005079065" />
-      <entry key="M30" value="32.600824180406455" />
-      <entry key="H1" value="36.076303532215015" />
-      <entry key="H2" value="37.9784012182142" />
-      <entry key="H4" value="38.973768920462426" />
-      <entry key="D1" value="39.826774856476504" />
-      <entry key="W1" value="39.97519942590911" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000039279190918" />
+      <entry key="S5" value="1.0122046382425771" />
+      <entry key="S10" value="1.1885266542726454" />
+      <entry key="S30" value="2.1902377871929684" />
+      <entry key="S60" value="2.9877954758927983" />
+      <entry key="M2" value="4.3571851810836275" />
+      <entry key="M5" value="8.298012793033323" />
+      <entry key="M10" value="13.158547669142047" />
+      <entry key="M15" value="16.826381802356497" />
+      <entry key="M30" value="24.863010393341465" />
+      <entry key="H1" value="39.059525396560204" />
+      <entry key="H2" value="59.646437444173564" />
+      <entry key="H4" value="79.08034565678196" />
+      <entry key="D1" value="103.78009234118971" />
+      <entry key="W1" value="109.08085607840846" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0002527505834513" />
-      <entry key="MS500" value="1.2060418354222033" />
-      <entry key="S2" value="2.2252925453224623" />
-      <entry key="S5" value="3.2009771672717022" />
-      <entry key="S10" value="4.00886596117614" />
-      <entry key="S30" value="5.511509581858567" />
-      <entry key="S60" value="6.664987946276477" />
-      <entry key="M2" value="8.851611909158517" />
-      <entry key="M5" value="14.830490290784091" />
-      <entry key="M10" value="19.960460398442056" />
-      <entry key="M15" value="22.414926946847086" />
-      <entry key="M30" value="25.388003201688573" />
-      <entry key="H1" value="27.105548605459553" />
-      <entry key="H2" value="28.029482081943602" />
-      <entry key="H4" value="28.50876345306691" />
-      <entry key="D1" value="28.917283557712675" />
-      <entry key="W1" value="28.988162525767066" />
+      <entry key="MS100" value="9.642740954334727E-119" />
+      <entry key="MS500" value="2.4936764276221184E-24" />
+      <entry key="S2" value="1.2566375272122754E-6" />
+      <entry key="S5" value="0.0043619834151329695" />
+      <entry key="S10" value="0.06604531355354802" />
+      <entry key="S30" value="0.4052281474501409" />
+      <entry key="S60" value="0.6953658472952949" />
+      <entry key="M2" value="1.3502804413996135" />
+      <entry key="M5" value="3.516064178257959" />
+      <entry key="M10" value="6.716994453015789" />
+      <entry key="M15" value="9.557266945461347" />
+      <entry key="M30" value="16.32122646509583" />
+      <entry key="H1" value="27.834485770473297" />
+      <entry key="H2" value="43.66452967045279" />
+      <entry key="H4" value="58.22151958239913" />
+      <entry key="D1" value="76.44485231864059" />
+      <entry key="W1" value="80.3275800435174" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.004016382057581119" />
-      <entry key="MS500" value="0.38406389978268063" />
-      <entry key="S2" value="1.4719678705171817" />
-      <entry key="S5" value="2.6604594239946233" />
-      <entry key="S10" value="4.1486003438920465" />
-      <entry key="S30" value="7.066958644146584" />
-      <entry key="S60" value="9.053796061921348" />
-      <entry key="M2" value="13.413251058211516" />
-      <entry key="M5" value="28.007621957756932" />
-      <entry key="M10" value="42.0623024083354" />
-      <entry key="M15" value="49.13363138246994" />
-      <entry key="M30" value="57.95232132246207" />
-      <entry key="H1" value="63.1622983698079" />
-      <entry key="H2" value="65.99775858112174" />
-      <entry key="H4" value="67.47738005927789" />
-      <entry key="D1" value="68.74318693910091" />
-      <entry key="W1" value="68.96323713936576" />
+      <entry key="MS100" value="0.8766057213160351" />
+      <entry key="MS500" value="0.974004268543241" />
+      <entry key="S2" value="0.9934411897966053" />
+      <entry key="S5" value="1.0125395297421191" />
+      <entry key="S10" value="1.2413326742138624" />
+      <entry key="S30" value="2.568526704717655" />
+      <entry key="S60" value="3.6599194065801917" />
+      <entry key="M2" value="5.6853783180811766" />
+      <entry key="M5" value="11.79125180885679" />
+      <entry key="M10" value="19.85408461566457" />
+      <entry key="M15" value="26.363887011184392" />
+      <entry key="M30" value="41.16815057506541" />
+      <entry key="H1" value="66.88023479785244" />
+      <entry key="H2" value="103.29979192450512" />
+      <entry key="H4" value="137.2942249367052" />
+      <entry key="D1" value="180.22323292258608" />
+      <entry key="W1" value="189.40817809802226" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
@@ -129,30 +129,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;应用程序.text1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.text2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.text3.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "应用程序.instance1.executor": "Run",
+    "应用程序.text1.executor": "Run",
+    "应用程序.text2.executor": "Run",
+    "应用程序.text3.executor": "Run",
+    "应用程序.text4.executor": "Run",
+    "应用程序.text5.executor": "Run"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
+      "Angular2Html"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -190,7 +201,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
