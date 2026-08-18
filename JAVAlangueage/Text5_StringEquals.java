@@ -1,7 +1,6 @@
 package JAVAlangueage;
-import java.awt.desktop.SystemEventListener;
 import java.util.Scanner;
-public class text5 {
+public class Text5_StringEquals {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入s2:");

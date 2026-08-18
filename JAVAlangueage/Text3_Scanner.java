@@ -1,6 +1,6 @@
 package JAVAlangueage;
 import java.util.Scanner;
-public class text3 {
+public class Text3_Scanner {
     static void main(String[] args) {
         //创建Scanner对象
         Scanner scanner =new Scanner(System.in);

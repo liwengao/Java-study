@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="2">
+      <change afterPath="$PROJECT_DIR$/JAVAlangueage/Insant1_Healthy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAlangueage/Text6_Methon.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text6_Methon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAlangueage/instance1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text1_Helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text2_变量与常量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text3_Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text4_ChangeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text5_StringEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="11" />
+    <option name="cachedIndexableFilesCount" value="16" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,60 +68,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000039279190918" />
-      <entry key="S5" value="1.0122046382425771" />
-      <entry key="S10" value="1.1885266542726454" />
-      <entry key="S30" value="2.1902377871929684" />
-      <entry key="S60" value="2.9877954758927983" />
-      <entry key="M2" value="4.3571851810836275" />
-      <entry key="M5" value="8.298012793033323" />
-      <entry key="M10" value="13.158547669142047" />
-      <entry key="M15" value="16.826381802356497" />
-      <entry key="M30" value="24.863010393341465" />
-      <entry key="H1" value="39.059525396560204" />
-      <entry key="H2" value="59.646437444173564" />
-      <entry key="H4" value="79.08034565678196" />
-      <entry key="D1" value="103.78009234118971" />
-      <entry key="W1" value="109.08085607840846" />
+      <entry key="MS500" value="1.0000022682325753" />
+      <entry key="S2" value="1.0393508572838221" />
+      <entry key="S5" value="1.371423018508949" />
+      <entry key="S10" value="2.1937764204299857" />
+      <entry key="S30" value="5.04044335761099" />
+      <entry key="S60" value="8.352882398089797" />
+      <entry key="M2" value="14.53642959428247" />
+      <entry key="M5" value="26.733303098643407" />
+      <entry key="M10" value="36.56133852002758" />
+      <entry key="M15" value="42.24556777806723" />
+      <entry key="M30" value="52.9100762221606" />
+      <entry key="H1" value="64.82476277177568" />
+      <entry key="H2" value="82.34808195560939" />
+      <entry key="H4" value="110.27229156918098" />
+      <entry key="D1" value="172.42974473001738" />
+      <entry key="W1" value="190.64557518003014" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="9.642740954334727E-119" />
-      <entry key="MS500" value="2.4936764276221184E-24" />
-      <entry key="S2" value="1.2566375272122754E-6" />
-      <entry key="S5" value="0.0043619834151329695" />
-      <entry key="S10" value="0.06604531355354802" />
-      <entry key="S30" value="0.4052281474501409" />
-      <entry key="S60" value="0.6953658472952949" />
-      <entry key="M2" value="1.3502804413996135" />
-      <entry key="M5" value="3.516064178257959" />
-      <entry key="M10" value="6.716994453015789" />
-      <entry key="M15" value="9.557266945461347" />
-      <entry key="M30" value="16.32122646509583" />
-      <entry key="H1" value="27.834485770473297" />
-      <entry key="H2" value="43.66452967045279" />
-      <entry key="H4" value="58.22151958239913" />
-      <entry key="D1" value="76.44485231864059" />
-      <entry key="W1" value="80.3275800435174" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.8372128495190924E-118" />
+      <entry key="S5" value="8.096947886108027E-48" />
+      <entry key="S10" value="3.1092032511439974E-24" />
+      <entry key="S30" value="2.4008693000431423E-8" />
+      <entry key="S60" value="2.585284104220463E-4" />
+      <entry key="M2" value="0.0275891063167819" />
+      <entry key="M5" value="0.45973121069574396" />
+      <entry key="M10" value="1.2546434704252354" />
+      <entry key="M15" value="1.9904303942093915" />
+      <entry key="M30" value="4.121507657573445" />
+      <entry key="H1" value="7.7252913827618" />
+      <entry key="H2" value="16.828129601742713" />
+      <entry key="H4" value="35.08110776412572" />
+      <entry key="D1" value="78.6249572576718" />
+      <entry key="W1" value="91.60459272845321" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8766057213160351" />
-      <entry key="MS500" value="0.974004268543241" />
-      <entry key="S2" value="0.9934411897966053" />
-      <entry key="S5" value="1.0125395297421191" />
-      <entry key="S10" value="1.2413326742138624" />
-      <entry key="S30" value="2.568526704717655" />
-      <entry key="S60" value="3.6599194065801917" />
-      <entry key="M2" value="5.6853783180811766" />
-      <entry key="M5" value="11.79125180885679" />
-      <entry key="M10" value="19.85408461566457" />
-      <entry key="M15" value="26.363887011184392" />
-      <entry key="M30" value="41.16815057506541" />
-      <entry key="H1" value="66.88023479785244" />
-      <entry key="H2" value="103.29979192450512" />
-      <entry key="H4" value="137.2942249367052" />
-      <entry key="D1" value="180.22323292258608" />
-      <entry key="W1" value="189.40817809802226" />
+      <entry key="MS100" value="0.9592641193252643" />
+      <entry key="MS500" value="0.9917189801824874" />
+      <entry key="S2" value="1.0371916605964473" />
+      <entry key="S5" value="1.3702738548692441" />
+      <entry key="S10" value="2.192843806202206" />
+      <entry key="S30" value="5.039733259812987" />
+      <entry key="S60" value="8.3525548518303" />
+      <entry key="M2" value="14.563045463179941" />
+      <entry key="M5" value="27.189169183622962" />
+      <entry key="M10" value="37.81085204077285" />
+      <entry key="M15" value="44.230793531306084" />
+      <entry key="M30" value="57.026709177932744" />
+      <entry key="H1" value="72.54582655904622" />
+      <entry key="H2" value="99.17179386707932" />
+      <entry key="H4" value="145.3487890892397" />
+      <entry key="D1" value="251.05295014075512" />
+      <entry key="W1" value="282.2498751902224" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -150,13 +160,14 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "应用程序.instance1.executor": "Run",
     "应用程序.text1.executor": "Run",
     "应用程序.text2.executor": "Run",
     "应用程序.text3.executor": "Run",
     "应用程序.text4.executor": "Run",
-    "应用程序.text5.executor": "Run"
+    "应用程序.text5.executor": "Run",
+    "应用程序.text7.executor": "Run"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [

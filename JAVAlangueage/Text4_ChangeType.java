@@ -1,6 +1,6 @@
 package JAVAlangueage;
 
-public class text4 {
+public class Text4_ChangeType {
     static void main(String[] args) {
         //1自动类型转换
         byte a=100;

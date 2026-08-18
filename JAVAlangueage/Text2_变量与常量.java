@@ -1,6 +1,6 @@
 package JAVAlangueage;
 
-public class text2 {
+public class Text2_变量与常量 {
     static void main(String[] args) {
         //变量
         int num =30;
