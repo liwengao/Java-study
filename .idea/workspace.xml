@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="数字华容道">
+    <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="重构">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Insant1_Healthy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Instant2_NumberPUzzle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text1_Helloworld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text2_变量与常量.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text3_Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text4_ChangeType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text5_StringEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text6_Methon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text7_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text8_VariadicParameter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/section1/section1.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,61 +57,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000001479" />
-      <entry key="MS500" value="1.0027752777434926" />
-      <entry key="S2" value="1.3158343325584483" />
-      <entry key="S5" value="1.9313237213967733" />
-      <entry key="S10" value="2.3585994640752768" />
-      <entry key="S30" value="2.7873925061961433" />
-      <entry key="S60" value="3.322568606890175" />
-      <entry key="M2" value="4.975361670107905" />
-      <entry key="M5" value="10.610463604671832" />
-      <entry key="M10" value="19.493795981564237" />
-      <entry key="M15" value="27.540533834303027" />
-      <entry key="M30" value="49.20331609341505" />
-      <entry key="H1" value="80.89405648762134" />
-      <entry key="H2" value="116.50945340378587" />
-      <entry key="H4" value="160.46314065740484" />
-      <entry key="D1" value="295.4320817839553" />
-      <entry key="W1" value="350.10130115227696" />
+      <entry key="MS100" value="1.840919866107921" />
+      <entry key="MS500" value="2.084542799306303" />
+      <entry key="S2" value="2.6458362168870475" />
+      <entry key="S5" value="3.1450234573333766" />
+      <entry key="S10" value="3.489842747279274" />
+      <entry key="S30" value="4.252632640400118" />
+      <entry key="S60" value="5.249456675907552" />
+      <entry key="M2" value="6.976629021761238" />
+      <entry key="M5" value="12.489324945901517" />
+      <entry key="M10" value="21.11002449146253" />
+      <entry key="M15" value="28.923766362272353" />
+      <entry key="M30" value="50.15597004805356" />
+      <entry key="H1" value="81.15602538967045" />
+      <entry key="H2" value="115.86128940893634" />
+      <entry key="H4" value="159.08582769844563" />
+      <entry key="D1" value="292.9321220914171" />
+      <entry key="W1" value="347.18602540649994" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="7.098661755257816E-201" />
-      <entry key="S2" value="9.178973599372539E-51" />
-      <entry key="S5" value="9.66354082205253E-21" />
-      <entry key="S10" value="9.89855823269684E-11" />
-      <entry key="S30" value="5.877058356658188E-4" />
-      <entry key="S60" value="0.03894856866173957" />
-      <entry key="M2" value="0.3676718455812819" />
-      <entry key="M5" value="1.5944051914129513" />
-      <entry key="M10" value="3.4772722229634385" />
-      <entry key="M15" value="5.662073957960452" />
-      <entry key="M30" value="12.562280991806418" />
-      <entry key="H1" value="22.621400758427782" />
-      <entry key="H2" value="33.06038998987882" />
-      <entry key="H4" value="46.929188726561975" />
-      <entry key="D1" value="107.57277037605301" />
-      <entry key="W1" value="136.1481909910829" />
+      <entry key="MS500" value="1.1025337596668576E-72" />
+      <entry key="S2" value="1.0247029208184423E-18" />
+      <entry key="S5" value="6.371736785888373E-8" />
+      <entry key="S10" value="2.541749302399151E-4" />
+      <entry key="S30" value="0.08047857167808187" />
+      <entry key="S60" value="0.455776186866122" />
+      <entry key="M2" value="1.2577387439567294" />
+      <entry key="M5" value="2.6076585603446105" />
+      <entry key="M10" value="4.4469751664003585" />
+      <entry key="M15" value="6.671029785095641" />
+      <entry key="M30" value="13.63569173184574" />
+      <entry key="H1" value="23.568059678108625" />
+      <entry key="H2" value="33.74505498015457" />
+      <entry key="H4" value="47.4126391616676" />
+      <entry key="D1" value="107.75667961432316" />
+      <entry key="W1" value="136.18141844322406" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9592641193254016" />
-      <entry key="MS500" value="0.9944500086575742" />
-      <entry key="S2" value="1.3125552855407516" />
-      <entry key="S5" value="1.9290731752010588" />
-      <entry key="S10" value="2.3571480322757115" />
-      <entry key="S30" value="2.7859207041208203" />
-      <entry key="S60" value="3.3497315742275604" />
-      <entry key="M2" value="5.314937808025324" />
-      <entry key="M5" value="12.168248212709193" />
-      <entry key="M10" value="22.93891657180219" />
-      <entry key="M15" value="33.17392028985192" />
-      <entry key="M30" value="61.74180947205936" />
-      <entry key="H1" value="103.49667155164032" />
-      <entry key="H2" value="149.55676473618436" />
-      <entry key="H4" value="207.38358445165005" />
-      <entry key="D1" value="403.00197044333436" />
-      <entry key="W1" value="486.24898638272754" />
+      <entry key="MS100" value="0.9196624550575886" />
+      <entry key="MS500" value="1.4932974656425437" />
+      <entry key="S2" value="2.2042020932799984" />
+      <entry key="S5" value="2.704993819880927" />
+      <entry key="S10" value="3.116281903227317" />
+      <entry key="S30" value="4.131188992863861" />
+      <entry key="S60" value="5.57091536287952" />
+      <entry key="M2" value="8.138796758149878" />
+      <entry key="M5" value="15.037195067344399" />
+      <entry key="M10" value="25.515923091881298" />
+      <entry key="M15" value="35.56102198310454" />
+      <entry key="M30" value="63.76585326730069" />
+      <entry key="H1" value="104.70451884279625" />
+      <entry key="H2" value="149.59299762904027" />
+      <entry key="H4" value="206.48963320150474" />
+      <entry key="D1" value="400.6859152874147" />
+      <entry key="W1" value="483.36693799775685" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -243,9 +227,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="重构" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <MESSAGE value="数字华容道" />
-    <option name="LAST_COMMIT_MESSAGE" value="数字华容道" />
+    <option name="LAST_COMMIT_MESSAGE" value="重构" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
