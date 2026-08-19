@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="2">
-      <change afterPath="$PROJECT_DIR$/JAVAlangueage/Insant1_Healthy.java" afterDir="false" />
+    <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="数字华容道">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAlangueage/Text6_Methon.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text6_Methon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAlangueage/instance1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text1_Helloworld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text2_变量与常量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text3_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text4_ChangeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAlangueage/Text5_StringEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAlangueage/text6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Insant1_Healthy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Instant2_NumberPUzzle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text1_Helloworld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text2_变量与常量.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text3_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text4_ChangeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text5_StringEquals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text6_Methon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text7_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/JAVAlangueage/Text8_VariadicParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/section1/section1.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +29,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="16" />
+    <option name="cachedIndexableFilesCount" value="19" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,61 +73,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000022682325753" />
-      <entry key="S2" value="1.0393508572838221" />
-      <entry key="S5" value="1.371423018508949" />
-      <entry key="S10" value="2.1937764204299857" />
-      <entry key="S30" value="5.04044335761099" />
-      <entry key="S60" value="8.352882398089797" />
-      <entry key="M2" value="14.53642959428247" />
-      <entry key="M5" value="26.733303098643407" />
-      <entry key="M10" value="36.56133852002758" />
-      <entry key="M15" value="42.24556777806723" />
-      <entry key="M30" value="52.9100762221606" />
-      <entry key="H1" value="64.82476277177568" />
-      <entry key="H2" value="82.34808195560939" />
-      <entry key="H4" value="110.27229156918098" />
-      <entry key="D1" value="172.42974473001738" />
-      <entry key="W1" value="190.64557518003014" />
+      <entry key="MS100" value="1.0000000000001479" />
+      <entry key="MS500" value="1.0027752777434926" />
+      <entry key="S2" value="1.3158343325584483" />
+      <entry key="S5" value="1.9313237213967733" />
+      <entry key="S10" value="2.3585994640752768" />
+      <entry key="S30" value="2.7873925061961433" />
+      <entry key="S60" value="3.322568606890175" />
+      <entry key="M2" value="4.975361670107905" />
+      <entry key="M5" value="10.610463604671832" />
+      <entry key="M10" value="19.493795981564237" />
+      <entry key="M15" value="27.540533834303027" />
+      <entry key="M30" value="49.20331609341505" />
+      <entry key="H1" value="80.89405648762134" />
+      <entry key="H2" value="116.50945340378587" />
+      <entry key="H4" value="160.46314065740484" />
+      <entry key="D1" value="295.4320817839553" />
+      <entry key="W1" value="350.10130115227696" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.8372128495190924E-118" />
-      <entry key="S5" value="8.096947886108027E-48" />
-      <entry key="S10" value="3.1092032511439974E-24" />
-      <entry key="S30" value="2.4008693000431423E-8" />
-      <entry key="S60" value="2.585284104220463E-4" />
-      <entry key="M2" value="0.0275891063167819" />
-      <entry key="M5" value="0.45973121069574396" />
-      <entry key="M10" value="1.2546434704252354" />
-      <entry key="M15" value="1.9904303942093915" />
-      <entry key="M30" value="4.121507657573445" />
-      <entry key="H1" value="7.7252913827618" />
-      <entry key="H2" value="16.828129601742713" />
-      <entry key="H4" value="35.08110776412572" />
-      <entry key="D1" value="78.6249572576718" />
-      <entry key="W1" value="91.60459272845321" />
+      <entry key="MS500" value="7.098661755257816E-201" />
+      <entry key="S2" value="9.178973599372539E-51" />
+      <entry key="S5" value="9.66354082205253E-21" />
+      <entry key="S10" value="9.89855823269684E-11" />
+      <entry key="S30" value="5.877058356658188E-4" />
+      <entry key="S60" value="0.03894856866173957" />
+      <entry key="M2" value="0.3676718455812819" />
+      <entry key="M5" value="1.5944051914129513" />
+      <entry key="M10" value="3.4772722229634385" />
+      <entry key="M15" value="5.662073957960452" />
+      <entry key="M30" value="12.562280991806418" />
+      <entry key="H1" value="22.621400758427782" />
+      <entry key="H2" value="33.06038998987882" />
+      <entry key="H4" value="46.929188726561975" />
+      <entry key="D1" value="107.57277037605301" />
+      <entry key="W1" value="136.1481909910829" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9592641193252643" />
-      <entry key="MS500" value="0.9917189801824874" />
-      <entry key="S2" value="1.0371916605964473" />
-      <entry key="S5" value="1.3702738548692441" />
-      <entry key="S10" value="2.192843806202206" />
-      <entry key="S30" value="5.039733259812987" />
-      <entry key="S60" value="8.3525548518303" />
-      <entry key="M2" value="14.563045463179941" />
-      <entry key="M5" value="27.189169183622962" />
-      <entry key="M10" value="37.81085204077285" />
-      <entry key="M15" value="44.230793531306084" />
-      <entry key="M30" value="57.026709177932744" />
-      <entry key="H1" value="72.54582655904622" />
-      <entry key="H2" value="99.17179386707932" />
-      <entry key="H4" value="145.3487890892397" />
-      <entry key="D1" value="251.05295014075512" />
-      <entry key="W1" value="282.2498751902224" />
+      <entry key="MS100" value="0.9592641193254016" />
+      <entry key="MS500" value="0.9944500086575742" />
+      <entry key="S2" value="1.3125552855407516" />
+      <entry key="S5" value="1.9290731752010588" />
+      <entry key="S10" value="2.3571480322757115" />
+      <entry key="S30" value="2.7859207041208203" />
+      <entry key="S60" value="3.3497315742275604" />
+      <entry key="M2" value="5.314937808025324" />
+      <entry key="M5" value="12.168248212709193" />
+      <entry key="M10" value="22.93891657180219" />
+      <entry key="M15" value="33.17392028985192" />
+      <entry key="M30" value="61.74180947205936" />
+      <entry key="H1" value="103.49667155164032" />
+      <entry key="H2" value="149.55676473618436" />
+      <entry key="H4" value="207.38358445165005" />
+      <entry key="D1" value="403.00197044333436" />
+      <entry key="W1" value="486.24898638272754" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -161,6 +167,9 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
+    "应用程序.Instant2_NumberPUzzle.executor": "Run",
+    "应用程序.Text7_Array.executor": "Run",
+    "应用程序.Text8_VariadicParameter.executor": "Run",
     "应用程序.instance1.executor": "Run",
     "应用程序.text1.executor": "Run",
     "应用程序.text2.executor": "Run",
@@ -233,7 +242,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="重构" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="数字华容道" />
+    <option name="LAST_COMMIT_MESSAGE" value="数字华容道" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
