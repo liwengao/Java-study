@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="重构">
+    <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="数字华容道">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,61 +58,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.840919866107921" />
-      <entry key="MS500" value="2.084542799306303" />
-      <entry key="S2" value="2.6458362168870475" />
-      <entry key="S5" value="3.1450234573333766" />
-      <entry key="S10" value="3.489842747279274" />
-      <entry key="S30" value="4.252632640400118" />
-      <entry key="S60" value="5.249456675907552" />
-      <entry key="M2" value="6.976629021761238" />
-      <entry key="M5" value="12.489324945901517" />
-      <entry key="M10" value="21.11002449146253" />
-      <entry key="M15" value="28.923766362272353" />
-      <entry key="M30" value="50.15597004805356" />
-      <entry key="H1" value="81.15602538967045" />
-      <entry key="H2" value="115.86128940893634" />
-      <entry key="H4" value="159.08582769844563" />
-      <entry key="D1" value="292.9321220914171" />
-      <entry key="W1" value="347.18602540649994" />
+      <entry key="MS100" value="1.7740114580897495" />
+      <entry key="MS500" value="2.7528845673796134" />
+      <entry key="S2" value="3.5336614414821397" />
+      <entry key="S5" value="4.090993836775244" />
+      <entry key="S10" value="4.4597361791294325" />
+      <entry key="S30" value="5.240368274677619" />
+      <entry key="S60" value="6.241881633922072" />
+      <entry key="M2" value="7.971593516185208" />
+      <entry key="M5" value="13.485718408242152" />
+      <entry key="M10" value="22.106976304481012" />
+      <entry key="M15" value="29.92098199253615" />
+      <entry key="M30" value="51.15355583746199" />
+      <entry key="H1" value="82.15407218157145" />
+      <entry key="H2" value="116.85989516513634" />
+      <entry key="H4" value="160.08487049739358" />
+      <entry key="D1" value="293.9318283342228" />
+      <entry key="W1" value="348.18597566877725" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.1025337596668576E-72" />
-      <entry key="S2" value="1.0247029208184423E-18" />
-      <entry key="S5" value="6.371736785888373E-8" />
-      <entry key="S10" value="2.541749302399151E-4" />
-      <entry key="S30" value="0.08047857167808187" />
-      <entry key="S60" value="0.455776186866122" />
-      <entry key="M2" value="1.2577387439567294" />
-      <entry key="M5" value="2.6076585603446105" />
-      <entry key="M10" value="4.4469751664003585" />
-      <entry key="M15" value="6.671029785095641" />
-      <entry key="M30" value="13.63569173184574" />
-      <entry key="H1" value="23.568059678108625" />
-      <entry key="H2" value="33.74505498015457" />
-      <entry key="H4" value="47.4126391616676" />
-      <entry key="D1" value="107.75667961432316" />
-      <entry key="W1" value="136.18141844322406" />
+      <entry key="MS500" value="9.271166862000609E-73" />
+      <entry key="S2" value="9.81258878717151E-19" />
+      <entry key="S5" value="6.262274161679604E-8" />
+      <entry key="S10" value="2.519821853475514E-4" />
+      <entry key="S30" value="0.08024647576965384" />
+      <entry key="S60" value="0.45511849522970216" />
+      <entry key="M2" value="1.2568309487394935" />
+      <entry key="M5" value="2.606905547764556" />
+      <entry key="M10" value="4.446333044368959" />
+      <entry key="M15" value="6.670387593023893" />
+      <entry key="M30" value="13.635035390609174" />
+      <entry key="H1" value="23.5674924580554" />
+      <entry key="H2" value="33.74464890117921" />
+      <entry key="H4" value="47.41235388529357" />
+      <entry key="D1" value="107.75657155413623" />
+      <entry key="W1" value="136.18139893393183" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9196624550575886" />
-      <entry key="MS500" value="1.4932974656425437" />
-      <entry key="S2" value="2.2042020932799984" />
-      <entry key="S5" value="2.704993819880927" />
-      <entry key="S10" value="3.116281903227317" />
-      <entry key="S30" value="4.131188992863861" />
-      <entry key="S60" value="5.57091536287952" />
-      <entry key="M2" value="8.138796758149878" />
-      <entry key="M5" value="15.037195067344399" />
-      <entry key="M10" value="25.515923091881298" />
-      <entry key="M15" value="35.56102198310454" />
-      <entry key="M30" value="63.76585326730069" />
-      <entry key="H1" value="104.70451884279625" />
-      <entry key="H2" value="149.59299762904027" />
-      <entry key="H4" value="206.48963320150474" />
-      <entry key="D1" value="400.6859152874147" />
-      <entry key="W1" value="483.36693799775685" />
+      <entry key="MS100" value="0.8071186384775356" />
+      <entry key="MS500" value="2.0966049010199863" />
+      <entry key="S2" value="3.068354436546164" />
+      <entry key="S5" value="3.641344243661829" />
+      <entry key="S10" value="4.080771099269148" />
+      <entry key="S30" value="5.116390917478299" />
+      <entry key="S60" value="6.561433436876532" />
+      <entry key="M2" value="9.132200669710842" />
+      <entry key="M5" value="16.0325640125667" />
+      <entry key="M10" value="26.512094318892228" />
+      <entry key="M15" value="36.5575024067859" />
+      <entry key="M30" value="64.76273582367871" />
+      <entry key="H1" value="105.70197481822981" />
+      <entry key="H2" value="150.59118543314344" />
+      <entry key="H4" value="207.48838476034527" />
+      <entry key="D1" value="401.6855124701114" />
+      <entry key="W1" value="484.36686860755486" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -129,45 +130,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "应用程序.Instant2_NumberPUzzle.executor": "Run",
-    "应用程序.Text7_Array.executor": "Run",
-    "应用程序.Text8_VariadicParameter.executor": "Run",
-    "应用程序.instance1.executor": "Run",
-    "应用程序.text1.executor": "Run",
-    "应用程序.text2.executor": "Run",
-    "应用程序.text3.executor": "Run",
-    "应用程序.text4.executor": "Run",
-    "应用程序.text5.executor": "Run",
-    "应用程序.text7.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;应用程序.Instant2_NumberPUzzle.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Text7_Array.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Text8_VariadicParameter.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.instance1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text7.executor&quot;: &quot;Run&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
-      "Angular2Html"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;Angular2Html&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -201,6 +202,11 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="eb8809b7-5766-4f1b-83dc-a60ff4d245c9" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -220,6 +226,31 @@
             </State>
           </value>
         </entry>
+        <entry key="eb8809b7-5766-4f1b-83dc-a60ff4d245c9">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
@@ -227,7 +258,9 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="重构" />
-    <option name="LAST_COMMIT_MESSAGE" value="重构" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="数字华容道" />
+    <option name="LAST_COMMIT_MESSAGE" value="数字华容道" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
