@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="数字华容道" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="19" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;liwengao&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/liwengao/Java-study.git&quot;,
+    &quot;accountId&quot;: &quot;abc41766-1771-48f6-a5b5-b77baf8c6944&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7740114580897495" />
+      <entry key="MS500" value="2.7528845673796134" />
+      <entry key="S2" value="3.5336614414821397" />
+      <entry key="S5" value="4.090993836775244" />
+      <entry key="S10" value="4.4597361791294325" />
+      <entry key="S30" value="5.240368274677619" />
+      <entry key="S60" value="6.241881633922072" />
+      <entry key="M2" value="7.971593516185208" />
+      <entry key="M5" value="13.485718408242152" />
+      <entry key="M10" value="22.106976304481012" />
+      <entry key="M15" value="29.92098199253615" />
+      <entry key="M30" value="51.15355583746199" />
+      <entry key="H1" value="82.15407218157145" />
+      <entry key="H2" value="116.85989516513634" />
+      <entry key="H4" value="160.08487049739358" />
+      <entry key="D1" value="293.9318283342228" />
+      <entry key="W1" value="348.18597566877725" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="9.271166862000609E-73" />
+      <entry key="S2" value="9.81258878717151E-19" />
+      <entry key="S5" value="6.262274161679604E-8" />
+      <entry key="S10" value="2.519821853475514E-4" />
+      <entry key="S30" value="0.08024647576965384" />
+      <entry key="S60" value="0.45511849522970216" />
+      <entry key="M2" value="1.2568309487394935" />
+      <entry key="M5" value="2.606905547764556" />
+      <entry key="M10" value="4.446333044368959" />
+      <entry key="M15" value="6.670387593023893" />
+      <entry key="M30" value="13.635035390609174" />
+      <entry key="H1" value="23.5674924580554" />
+      <entry key="H2" value="33.74464890117921" />
+      <entry key="H4" value="47.41235388529357" />
+      <entry key="D1" value="107.75657155413623" />
+      <entry key="W1" value="136.18139893393183" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8071186384775356" />
+      <entry key="MS500" value="2.0966049010199863" />
+      <entry key="S2" value="3.068354436546164" />
+      <entry key="S5" value="3.641344243661829" />
+      <entry key="S10" value="4.080771099269148" />
+      <entry key="S30" value="5.116390917478299" />
+      <entry key="S60" value="6.561433436876532" />
+      <entry key="M2" value="9.132200669710842" />
+      <entry key="M5" value="16.0325640125667" />
+      <entry key="M10" value="26.512094318892228" />
+      <entry key="M15" value="36.5575024067859" />
+      <entry key="M30" value="64.76273582367871" />
+      <entry key="H1" value="105.70197481822981" />
+      <entry key="H2" value="150.59118543314344" />
+      <entry key="H4" value="207.48838476034527" />
+      <entry key="D1" value="401.6855124701114" />
+      <entry key="W1" value="484.36686860755486" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3I02HeTGg6EjJyUPgX4jXv42OPy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;应用程序.Instant2_NumberPUzzle.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Text7_Array.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Text8_VariadicParameter.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.instance1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.text7.executor&quot;: &quot;Run&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;Angular2Html&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2ad751a9-4b28-4119-8724-ea14870d773c" name="更改" comment="" />
+      <created>1786887079911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786887079911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="重构" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="数字华容道" />
+    <option name="LAST_COMMIT_MESSAGE" value="数字华容道" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
