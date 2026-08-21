@@ -1,5 +1,3 @@
-package basicLanguage;
-
 public class Text2_变量与常量 {
     static void main(String[] args) {
         //变量

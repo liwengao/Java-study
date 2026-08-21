@@ -1,5 +1,3 @@
-package basicLanguage;
-
 public class Text6_Methon {
     static void main(String[] args) {
         double max=getMax(10,20);

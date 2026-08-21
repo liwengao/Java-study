@@ -1,4 +1,3 @@
-package basicLanguage;
 import java.util.Scanner;
 public class Text3_Scanner {
     static void main(String[] args) {

@@ -1,5 +1,3 @@
-package basicLanguage;
-
 public class Text4_ChangeType {
     static void main(String[] args) {
         //1自动类型转换

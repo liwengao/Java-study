@@ -1,5 +1,3 @@
-package basicLanguage;
-
 public class Text7_Array {
     public static void main(String[] args) {
         //一维数组
